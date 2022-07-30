@@ -2,7 +2,7 @@
     An example sketch for Edge Impulse trained model inference for Anomaly detection with Accelerometer and data upload to BLynk Edgent
 
     Copyright (c) 2021 Universiti Malaysia Perlis
-    Author      : Muhammad Amri bin Hassan
+    Modified by      : Muhammad Amri bin Hassan
     Create Time : July 2022
     Change Log  :
 
